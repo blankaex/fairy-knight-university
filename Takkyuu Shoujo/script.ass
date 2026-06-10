@@ -18,7 +18,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: Summer Time Rendering
+Last Style Storage: Takkyuu Shoujo
 Audio File: audio_jpn.opus
 Video File: Takkyuu Shoujo -Senkou no Kanata e- [x265] (1080p) [Premux].mkv
 Keyframes File: Takkyuu Shoujo -Senkou no Kanata e- [x265] (1080p) [Premux].mkv_keyframes.txt
@@ -109,7 +109,7 @@ Dialogue: 69,0:07:25.29,0:07:27.56,Default,,0,0,0,,Have some faith in me.
 Dialogue: 69,0:07:27.56,0:07:29.80,Default,,0,0,0,,Let's get going, Lu is waiting.
 Dialogue: 69,0:07:29.80,0:07:30.42,Default,,0,0,0,,Gotcha.
 Dialogue: 69,0:07:30.42,0:07:31.55,Default,,0,0,0,,Wait!
-Dialogue: 69,0:07:40.00,0:07:42.11,Default,,0,0,0,,303 is Din Tai Fung?
+Dialogue: 69,0:07:40.00,0:07:42.11,Default,,0,0,0,,303... But that's Din Tai Fung?
 Dialogue: 69,0:07:42.71,0:07:45.08,Default,,0,0,0,,Xiaolongbaos ready to go!
 Dialogue: 69,0:07:46.97,0:07:48.79,Default,,0,0,0,,Come to papa!
 Dialogue: 69,0:07:54.01,0:07:55.64,Default,,0,0,0,,This is the guys' dorm.
@@ -162,7 +162,7 @@ Dialogue: 69,0:11:16.02,0:11:17.49,Default,,0,0,0,,That was you?
 Dialogue: 69,0:11:18.37,0:11:20.99,Default,,0,0,0,,Yeah. I have another one, actually.
 Dialogue: 69,0:11:21.52,0:11:23.51,Default,,0,0,0,,Might be better to use both.
 Dialogue: 69,0:11:27.46,0:11:30.50,Default,,0,0,0,,Yikes, I can practically see the sparks.
-Dialogue: 69,0:11:30.50,0:11:32.61,Default,,0,0,0,,Huh? Where?{This one's a brainlet} {this one?}{based retorn}
+Dialogue: 69,0:11:30.50,0:11:32.61,Default,,0,0,0,,Huh? Where?{This one's a brainlet}{this one?}{based retorn}
 Dialogue: 69,0:11:32.61,0:11:34.05,Default,,0,0,0,,On Lu's face!
 Dialogue: 69,0:11:35.02,0:11:36.08,Default,,0,0,0,,Her face?
 Dialogue: 69,0:11:41.20,0:11:42.56,Default,,0,0,0,,Come on, get moving.
@@ -182,7 +182,7 @@ Dialogue: 69,0:12:21.26,0:12:23.24,Default,,0,0,0,,If you ever need help with yo
 Dialogue: 69,0:12:23.24,0:12:26.77,Default,,0,0,0,,you can come to me whenever you like, even outside of class.
 Dialogue: 69,0:12:26.77,0:12:29.81,Default,,0,0,0,,I promise to help you in any way I can.
 Dialogue: 69,0:12:29.81,0:12:34.28,Default,,0,0,0,,Taking care of your health is also an important part of school life.
-Dialogue: 69,0:12:32.27,0:12:36.28,signs - watch,,0,0,0,,{Sign}Do you like table tennis?\N — Li Xintong
+Dialogue: 69,0:12:32.27,0:12:36.28,signs - watch,,0,0,0,,{Sign}Do you like ping pong?\N — Li Xintong
 Dialogue: 69,0:12:34.66,0:12:37.70,Default,,0,0,0,,We have plenty of extracurricular activities available,
 Dialogue: 69,0:12:37.70,0:12:41.01,Default,,0,0,0,,so on top of staying fit and healthy, you can broaden your horizons,
 Dialogue: 69,0:12:41.01,0:12:44.58,Default,,0,0,0,,make friends with similar interests, and—
@@ -193,9 +193,9 @@ Dialogue: 69,0:13:08.63,0:13:12.60,Default,,0,0,0,,That's a Champion Road series
 Dialogue: 69,0:13:12.60,0:13:15.27,Default,,0,0,0,,I could never get my hands on one!
 Dialogue: 69,0:13:15.57,0:13:17.78,Default,,0,0,0,,Oh, yeah. My sister gave it to me.
 Dialogue: 69,0:13:22.72,0:13:24.33,Default,,0,0,0,,Ah, now it makes sense.
-Dialogue: 69,0:13:24.75,0:13:28.08,Default,,0,0,0,,You like table tennis too? \NMakes sense you'd be good.
+Dialogue: 69,0:13:24.75,0:13:28.08,Default,,0,0,0,,You like ping pong too? \NMakes sense you'd be good.
 Dialogue: 69,0:13:28.59,0:13:30.17,Default,,0,0,0,,Not really.
-Dialogue: 69,0:13:30.17,0:13:32.08,Default,,0,0,0,,Whoa! Wang Lu plays table tennis too?
+Dialogue: 69,0:13:30.17,0:13:32.08,Default,,0,0,0,,Whoa! Wang Lu plays ping pong too?
 Dialogue: 69,0:13:32.62,0:13:35.60,Default,,0,0,0,,Lu was one of the top players in the city during middle school,
 Dialogue: 69,0:13:35.60,0:13:38.54,Default,,0,0,0,,and she was put forward for the national team selection tournament.
 Dialogue: 69,0:13:40.29,0:13:42.64,Default,,0,0,0,,I quit because I got too busy.
@@ -207,7 +207,7 @@ Dialogue: 69,0:13:56.37,0:13:57.40,Default,,0,0,0,,All right, all right.
 Dialogue: 69,0:14:02.09,0:14:05.57,Default,,0,0,0,,Hey guys! They're doing something crazy in class 9!
 Dialogue: 69,0:14:07.26,0:14:10.58,Default,,0,0,0,,Isn't that {\i1}the{\i0} Wang Lu? What's she doing?
 Dialogue: 69,0:14:10.58,0:14:12.21,Default,,0,0,0,,The heck is that?
-Dialogue: 69,0:14:12.21,0:14:13.84,Default,,0,0,0,,Looks like table tennis?
+Dialogue: 69,0:14:12.21,0:14:13.84,Default,,0,0,0,,Looks like pong?
 Dialogue: 69,0:14:13.84,0:14:15.08,Default,,0,0,0,,What are the cups for?
 Dialogue: 69,0:14:15.08,0:14:16.28,Default,,0,0,0,,Hell if I know.
 Dialogue: 69,0:14:16.28,0:14:17.97,Default,,0,0,0,,She gonna show off a cool trick or something?
@@ -223,7 +223,7 @@ Dialogue: 69,0:14:51.98,0:14:55.08,Default,,0,0,0,,Damn, there's someone this cr
 Dialogue: 69,0:14:55.76,0:14:58.09,Default,,0,0,0,,I'll post this on Xiaolanshu, yeah?
 Dialogue: 69,0:15:22.50,0:15:24.82,Default,,0,0,0,,Wow, Wang Lu! You're amazing!
 Dialogue: 69,0:15:24.82,0:15:25.55,Default,,0,0,0,,That's right!
-Dialogue: 69,0:15:25.55,0:15:29.62,Default,,0,0,0,,She's the smart and beautiful table tennis prodigy, Wang Lu!
+Dialogue: 69,0:15:25.55,0:15:29.62,Default,,0,0,0,,She's the smart and beautiful ping pong prodigy, Wang Lu!
 Dialogue: 69,0:15:29.62,0:15:34.08,Default,,0,0,0,,There's only one person in the world of this calibre!
 Dialogue: 69,0:15:35.07,0:15:38.33,Default,,0,0,0,,Zhang Ruozhi, wanna square up?
 Dialogue: 69,0:15:39.61,0:15:42.50,Default,,0,0,0,,I haven't played in a while, so I'm rusty.
@@ -291,13 +291,13 @@ Dialogue: 69,0:19:54.53,0:19:58.47,Default,,0,0,0,,Zhang Rouzhi's trajectory is 
 Dialogue: 69,0:19:59.05,0:20:00.42,Default,,0,0,0,,Wow, amazing!
 Dialogue: 69,0:20:06.67,0:20:08.59,Default,,0,0,0,,Nice smash!
 Dialogue: 69,0:20:06.67,0:20:08.59,Default,,0,0,0,,{\an8}She did it!
-Dialogue: 69,0:20:08.59,0:20:11.73,Default,,0,0,0,,Actually, that was a forehand loop!{took the words right out of my mouth}
+Dialogue: 69,0:20:08.59,0:20:11.73,Default,,0,0,0,,{\i1}Ackshually{\i0}, that was a forehand loop!{took the words right out of my mouth}
 Dialogue: 69,0:20:11.73,0:20:16.00,Default,,0,0,0,,You accelerate quickly and squeeze tightly through the point of contact
-Dialogue: 69,0:20:16.00,0:20:18.49,Default,,0,0,0,,to impart large amounts of topspin onto the ball.
+Dialogue: 69,0:20:16.00,0:20:18.49,Default,,0,0,0,,to impart a large amount of topspin onto the ball.
 Dialogue: 69,0:20:18.49,0:20:23.30,Default,,0,0,0,,The topspin has her opponent on the back foot, that's why—
 Dialogue: 69,0:20:26.04,0:20:27.58,Default,,0,0,0,,We knew that!
 Dialogue: 69,0:20:28.38,0:20:29.60,Default,,0,0,0,,What's topspin?
-Dialogue: 69,0:20:29.60,0:20:31.59,Default,,0,0,0,,Y'know, when you spin the ball.
+Dialogue: 69,0:20:29.60,0:20:31.59,Default,,0,0,0,,Y'know, when you spin the ball to the top.
 Dialogue: 69,0:20:46.52,0:20:48.07,Default,,0,0,0,,Are you sandbagging?
 Dialogue: 69,0:20:48.80,0:20:51.69,Default,,0,0,0,,Play for real. Or is that all you've got?
 Dialogue: 69,0:20:56.15,0:20:57.59,Default,,0,0,0,,Go, Wang Lu!
@@ -311,7 +311,7 @@ Dialogue: 69,0:21:39.55,0:21:41.05,Default,,0,0,0,,I can't believe she caught up
 Dialogue: 69,0:21:41.05,0:21:42.96,Default,,0,0,0,,She's just lucky! Lu can bring it back!
 Dialogue: 69,0:21:42.96,0:21:44.28,Default,,0,0,0,,Lu's got this!
 Dialogue: 69,0:21:44.88,0:21:47.79,Default,,0,0,0,,But Zhang Rouzhi's something else.
-Dialogue: 69,0:21:48.14,0:21:50.59,Default,,0,0,0,,Even if Wang Lu knows her own weakness,
+Dialogue: 69,0:21:48.14,0:21:50.59,Default,,0,0,0,,Even if Wang Lu's caught on to her own weakness,
 Dialogue: 69,0:21:50.59,0:21:52.29,Default,,0,0,0,,she can't fix it on the fly.
 Dialogue: 69,0:22:09.48,0:22:11.43,Default,,0,0,0,,She might have this in the bag.{yea 1-5 to 8-5 time to go home lol}
 Dialogue: 69,0:22:11.43,0:22:14.69,Default,,0,0,0,,This is clearly just for fun, why's Zhang Rouzhi going all out?
@@ -347,9 +347,9 @@ Dialogue: 69,0:25:55.51,0:25:58.29,Default,,0,0,0,,Hey, I know a great bubble te
 Dialogue: 69,0:25:58.60,0:25:59.61,Default,,0,0,0,,It's on me.
 Dialogue: 69,0:26:01.50,0:26:02.83,Default,,0,0,0,,Welcome!
 Dialogue: 69,0:26:11.78,0:26:14.34,Default,,0,0,0,,I'm really surprised though.
-Dialogue: 69,0:26:15.22,0:26:19.77,Default,,0,0,0,,It's only my first day but I've already met a table tennis guru.
+Dialogue: 69,0:26:15.22,0:26:19.77,Default,,0,0,0,,It's only my first day but I've already met a ping pong pro.
 Dialogue: 69,0:26:22.23,0:26:24.69,signs - watch,,0,0,0,,Mango Coconut\N Medium Size\N Regular Ice \NMAX SUGAR \NCoconut Jelly, Pearls
-Dialogue: 69,0:26:26.18,0:26:30.75,Default,,0,0,0,,Do you think you could help me get better at table tennis?
+Dialogue: 69,0:26:26.18,0:26:30.75,Default,,0,0,0,,Do you think you could help me get better at ping pong?
 Dialogue: 69,0:26:31.68,0:26:34.13,Default,,0,0,0,,I'm nowhere near good enough to teach—
 Dialogue: 69,0:26:38.49,0:26:39.16,Default,,0,0,0,,Owies!
 Dialogue: 69,0:26:42.36,0:26:43.88,Default,,0,0,0,,Are you okay?
@@ -361,7 +361,7 @@ Dialogue: 69,0:27:05.66,0:27:06.65,Default,,0,0,0,,Your bus is here.
 Dialogue: 69,0:27:10.28,0:27:12.55,Default,,0,0,0,,See you tomorrow!
 Dialogue: 69,0:27:15.36,0:27:18.86,Default,,0,0,0,,{\i1}Now departing. Please hold on to the handrail.
 Dialogue: 69,0:27:18.86,0:27:20.43,Default,,0,0,0,,{\i1}Next stop is...
-Dialogue: 69,0:27:30.04,0:27:31.73,Default,,0,0,0,,{\i1}Do you like table tennis?
+Dialogue: 69,0:27:30.04,0:27:31.73,Default,,0,0,0,,{\i1}Do you like ping pong?
 Dialogue: 69,0:27:41.98,0:27:47.94,Default,,0,0,0,,A new chapter starts for all of us at Qiming High.
 Dialogue: 69,0:27:48.28,0:27:51.65,Default,,0,0,0,,Some of us may have left our families, but you are not alone.
 Dialogue: 69,0:27:52.21,0:27:55.74,Default,,0,0,0,,There's no need to fear the unknowns ahead,
@@ -404,7 +404,7 @@ Dialogue: 69,0:31:03.78,0:31:05.10,Default,,0,0,0,,Only a little.
 Dialogue: 69,0:31:05.84,0:31:07.31,Default,,0,0,0,,Just a bite, then.
 Dialogue: 69,0:31:20.56,0:31:21.37,Default,,0,0,0,,How is it?
 Dialogue: 69,0:31:21.37,0:31:22.74,Default,,0,0,0,,It's like sex in my mouth.{#2406}{m8}
-Dialogue: 69,0:31:28.27,0:31:30.45,Default,,0,0,0,,So are you gonna join the table tennis club?
+Dialogue: 69,0:31:28.27,0:31:30.45,Default,,0,0,0,,So are you gonna join the ping pong club?
 Dialogue: 69,0:31:30.91,0:31:31.62,Default,,0,0,0,,Yeah.
 Dialogue: 69,0:31:32.33,0:31:35.85,Default,,0,0,0,,I'm planning to submit my application after this.
 Dialogue: 69,0:31:37.26,0:31:39.91,Default,,0,0,0,,Yay! We'll get to play pong together!
@@ -414,7 +414,7 @@ Dialogue: 69,0:31:45.63,0:31:47.97,Default,,0,0,0,,I saw your poster on the bull
 Dialogue: 69,0:31:48.28,0:31:51.21,Default,,0,0,0,,Crazy that you're good at ping pong too.
 Dialogue: 69,0:31:52.28,0:31:53.47,Default,,0,0,0,,Let's play some time.
 Dialogue: 69,0:31:55.30,0:31:58.06,Default,,0,0,0,,Didn't Mr. Li tell you to go to the staff room?
-Dialogue: 69,0:31:58.36,0:32:02.07,Default,,0,0,0,,Don't remind me, you're such a buzzkill.
+Dialogue: 69,0:31:58.36,0:32:02.07,Default,,0,0,0,,Don't remind me. You're such a buzzkill.
 Dialogue: 69,0:32:02.87,0:32:06.24,Default,,0,0,0,,Anyway who's Zhang Ruozhi?
 Dialogue: 69,0:32:03.40,0:32:06.24,Default,,0,0,0,,{\an8}Yeah, I love it.
 Dialogue: 69,0:32:06.48,0:32:08.33,Default,,0,0,0,,I feel like I've seen her before.
@@ -425,8 +425,8 @@ Dialogue: 69,0:32:23.67,0:32:27.18,Default,,0,0,0,,We've just received word abou
 Dialogue: 69,0:32:27.18,0:32:30.34,Default,,0,0,0,,The women's singles group stage just ended.
 Dialogue: 69,0:32:30.73,0:32:33.70,Default,,0,0,0,,Zhang Ruotong put on an amazing display of skill,
 Dialogue: 69,0:32:33.70,0:32:36.35,Default,,0,0,0,,overwhelming her opponent 3-0.
-Dialogue: 69,0:32:36.35,0:32:39.85,Default,,0,0,0,,Zhang Ruotong, how are you feeling about your upcoming overseas matches?
-Dialogue: 69,0:32:41.04,0:32:43.92,Default,,0,0,0,,She'll be right. There'll be lots of people there!{what the fuck kind of answer is that}{mebe cross reference og chink. prob go something along the lines of drawing a crowd or sum shit idk}
+Dialogue: 69,0:32:36.35,0:32:39.85,Default,,0,0,0,,Zhang Ruotong, how are you enjoying being overseas for the tournament?
+Dialogue: 69,0:32:41.04,0:32:43.92,Default,,0,0,0,,It's not bad. There are lots of people here!
 Dialogue: 69,0:32:44.34,0:32:48.71,Default,,0,0,0,,Oh yeah, check this out! I lined up for an hour and a half to buy this for my sister.
 Dialogue: 69,0:32:49.18,0:32:50.94,Default,,0,0,0,,Are you watching, Ruozhi?
 Dialogue: 69,0:32:52.96,0:32:55.45,Default,,0,0,0,,That name sounds familiar.
@@ -445,7 +445,7 @@ Dialogue: 69,0:33:30.82,0:33:33.79,Default,,0,0,0,,Ding Xiao, didn't I tell you 
 Dialogue: 69,0:33:34.51,0:33:36.62,Default,,0,0,0,,My b', Teach! I'll head over now!
 Dialogue: 69,0:33:36.62,0:33:37.80,Default,,0,0,0,,Whoopsie!
 Dialogue: 69,0:33:37.80,0:33:40.00,Default,,0,0,0,,Slipped me mind with all the big news.
-Dialogue: 69,0:33:40.51,0:33:43.39,Default,,0,0,0,,Smella ya later, lil sis!
+Dialogue: 69,0:33:40.51,0:33:43.39,Default,,0,0,0,,Smell ya later, lil sis!
 Dialogue: 69,0:33:45.71,0:33:46.94,Default,,0,0,0,,Wew, lad.
 Dialogue: 69,0:34:01.65,0:34:05.47,Default,,0,0,0,,Wow, is this Zhang Ruotong's autograph?
 Dialogue: 69,0:34:05.47,0:34:06.31,Default,,0,0,0,,Yeah.
@@ -454,14 +454,14 @@ Dialogue: 69,0:34:10.07,0:34:11.03,Default,,0,0,0,,Sure.
 Dialogue: 69,0:34:12.21,0:34:13.88,Default,,0,0,0,,I mean, no.
 Dialogue: 69,0:34:13.88,0:34:15.45,Default,,0,0,0,,Zhang Ruozhi!
 Dialogue: 69,0:34:15.45,0:34:18.79,Default,,0,0,0,,Show me that secret move of yours!
-Dialogue: 69,0:34:20.39,0:34:23.87,Default,,0,0,0,,Your ball that zings like a lightning bolt!
+Dialogue: 69,0:34:20.39,0:34:23.87,Default,,0,0,0,,The ball that zings like a lightning bolt!
 Dialogue: 69,0:34:23.87,0:34:26.29,Default,,0,0,0,,The banana flick that rends the Heavens!
 Dialogue: 69,0:34:26.29,0:34:29.38,Default,,0,0,0,,The miraculous smash that puts Calderano to shame!
 Dialogue: 69,0:34:29.38,0:34:31.00,Default,,0,0,0,,Haiya!
 Dialogue: 69,0:34:33.08,0:34:35.22,Default,,0,0,0,,Gotta take a slash.
 Dialogue: 69,0:34:40.40,0:34:45.04,Default,,0,0,0,,Seems like everyone has high hopes for the national player's darling sister.
 Dialogue: 69,0:34:46.59,0:34:48.82,Default,,0,0,0,,Are you joining the club?
-Dialogue: 69,0:34:49.46,0:34:52.82,Default,,0,0,0,,I've got too many other things going on.
+Dialogue: 69,0:34:49.46,0:34:52.82,Default,,0,0,0,,I'm far too busy for that.
 Dialogue: 69,0:34:53.46,0:34:56.15,Default,,0,0,0,,Oh. That's a shame.
 Dialogue: 69,0:34:58.60,0:35:02.33,Default,,0,0,0,,Your shot yesterday was great.
 Dialogue: 69,0:35:10.50,0:35:11.87,Default,,0,0,0,,Just one shot?
@@ -498,11 +498,11 @@ Dialogue: 69,0:37:02.16,0:37:05.17,Default,,0,0,0,,Hell yeah! Let's get down to 
 Dialogue: 69,0:37:05.17,0:37:08.67,Default,,0,0,0,,Let's head down to the first floor later for a few tests.
 Dialogue: 69,0:37:08.67,0:37:11.14,Default,,0,0,0,,Ding Xiao, you're a penholder?
 Dialogue: 69,0:37:11.14,0:37:13.33,Default,,0,0,0,,There's not too many penholders these days!
-Dialogue: 69,0:37:13.33,0:37:15.54,Default,,0,0,0,,Can I see your rubber?
+Dialogue: 69,0:37:13.33,0:37:15.54,Default,,0,0,0,,Can I see your rubber?{lood}
 Dialogue: 69,0:37:15.54,0:37:16.34,Default,,0,0,0,,Sure.
 Dialogue: 69,0:37:16.34,0:37:19.90,Default,,0,0,0,,Whoa, it's a DHS Hurricane 3 National Blue Sponge™!
 Dialogue: 69,0:37:19.90,0:37:22.77,Default,,0,0,0,,It's got an extremely tacky topsheet so it's super spinny.
-Dialogue: 69,0:37:22.77,0:37:26.39,Default,,0,0,0,,Great for looping backspin, and has an excellent short game too.
+Dialogue: 69,0:37:22.77,0:37:26.39,Default,,0,0,0,,Great for looping backspin, and has an excellent short game too.{whoa lore accuracy?}
 Dialogue: 69,0:37:26.39,0:37:29.95,Default,,0,0,0,,It's no slouch for close-to-the-table attacks and still has powerful drives at mid-distance.
 Dialogue: 69,0:37:29.95,0:37:30.83,Default,,0,0,0,,Amazing!
 Dialogue: 69,0:37:30.83,0:37:33.28,Default,,0,0,0,,Ya sure love to yap, don'tcha!
@@ -517,8 +517,8 @@ Dialogue: 69,0:38:06.06,0:38:07.59,Default,,0,0,0,,Next, Ding Xiao.
 Dialogue: 69,0:38:23.70,0:38:26.58,Default,,0,0,0,,Li Xintong, you need to train your core.
 Dialogue: 69,0:38:32.30,0:38:33.35,Default,,0,0,0,,2 metres.
 Dialogue: 69,0:38:33.35,0:38:34.58,Default,,0,0,0,,Whoa!
-Dialogue: 69,0:38:37.04,0:38:37.89,Default,,0,0,0,,1.6.
-Dialogue: 69,0:38:37.89,0:38:40.77,Default,,0,0,0,,Wang Lu was right, they're all beginners.
+Dialogue: 69,0:38:37.04,0:38:37.89,Default,,0,0,0,,1.4.
+Dialogue: 69,0:38:37.89,0:38:40.77,Default,,0,0,0,,Wang Lu was right. They're all beginners.
 Dialogue: 69,0:38:40.77,0:38:42.68,Default,,0,0,0,,Not particularly athletic, either.
 Dialogue: 69,0:38:55.02,0:38:56.38,Default,,0,0,0,,Ding Xiao! Are you okay?
 Dialogue: 69,0:38:56.38,0:38:58.60,Default,,0,0,0,,What a shame, the jump itself was great.
@@ -605,7 +605,7 @@ Dialogue: 69,0:45:00.79,0:45:03.26,Default,,0,0,0,,She flew out the doors as soo
 Dialogue: 69,0:45:03.26,0:45:04.22,Default,,0,0,0,,With a big smile.
 Dialogue: 69,0:45:06.07,0:45:06.79,Default,,0,0,0,,Right.
 Dialogue: 69,0:45:21.64,0:45:23.33,Default,,0,0,0,,Zhang Ruozhi is in her own tier,
-Dialogue: 69,0:45:23.88,0:45:27.83,Default,,0,0,0,,but Ding Xiao is like an unrefined mass of talent.
+Dialogue: 69,0:45:23.88,0:45:27.83,Default,,0,0,0,,and Ding Xiao is full of unrefined raw talent.
 Dialogue: 69,0:45:29.33,0:45:31.30,Default,,0,0,0,,Talent isn't everything.
 Dialogue: 69,0:45:31.30,0:45:33.75,Default,,0,0,0,,There's not a single good player without talent.
 Dialogue: 69,0:45:35.48,0:45:36.30,Default,,0,0,0,,Me.
@@ -636,8 +636,8 @@ Dialogue: 69,0:47:13.03,0:47:16.93,Default,,0,0,0,,I'm in the table tennis team 
 Dialogue: 69,0:47:37.96,0:47:41.13,Default,,0,0,0,,Ding Xiao can really get along with anyone, can't she?
 Dialogue: 69,0:47:42.34,0:47:45.63,Default,,0,0,0,,I used to play around like that when I was younger.
 Dialogue: 69,0:47:46.42,0:47:49.64,Default,,0,0,0,,Back then I couldn't even really get the ball back over.
-Dialogue: 69,0:47:50.24,0:47:55.69,Default,,0,0,0,,Table tennis balls are so small, but there're so many ways you can spin them.
-Dialogue: 69,0:47:55.69,0:47:58.39,Default,,0,0,0,,It's like they're full of unlimited potential.
+Dialogue: 69,0:47:50.24,0:47:55.69,Default,,0,0,0,,Ping pong balls are so small, but you can spin them this way and that.
+Dialogue: 69,0:47:55.69,0:47:58.39,Default,,0,0,0,,They're full of unlimited potential.
 Dialogue: 69,0:48:08.34,0:48:11.26,Default,,0,0,0,,Unlimited potential?
 Dialogue: 69,0:48:12.65,0:48:14.82,Default,,0,0,0,,What is this, a gay ping pong cartoon?
 Dialogue: 69,0:48:14.82,0:48:16.25,Default,,0,0,0,,How embarrassing.
@@ -652,7 +652,7 @@ Dialogue: 69,0:48:43.60,0:48:45.24,Default,,0,0,0,,Huh? It's a compliment!
 Dialogue: 69,0:48:45.24,0:48:46.33,Default,,0,0,0,,How?
 Dialogue: 69,0:48:50.85,0:48:53.68,Default,,0,0,0,,{\i1}I got you a present. How's school?
 Dialogue: 69,0:48:53.68,0:48:55.53,Default,,0,0,0,,{\i1}Let me know what you've been up to.
-Dialogue: 69,0:48:56.71,0:48:58.67,Default,,0,0,0,,{\i1}Don't forget to have fun playing table tennis.
+Dialogue: 69,0:48:56.71,0:48:58.67,Default,,0,0,0,,{\i1}Don't forget to have fun playing ping pong.
 Dialogue: 69,0:48:59.04,0:48:59.84,Default,,0,0,0,,{\i1}Love you!
 Dialogue: 69,0:48:59.71,0:49:02.05,Default,,0,0,0,,You're so annoying! Stay still!
 Dialogue: 69,0:49:02.05,0:49:02.76,Default,,0,0,0,,Catch me if you can!
@@ -687,7 +687,7 @@ Dialogue: 69,0:51:05.81,0:51:08.00,Default,,0,0,0,,Lu's given up on them long ag
 Dialogue: 69,0:51:08.00,0:51:09.22,Default,,0,0,0,,No shot.
 Dialogue: 69,0:51:10.96,0:51:12.88,Default,,0,0,0,,I'll be going.
 Dialogue: 69,0:51:12.88,0:51:14.87,Default,,0,0,0,,I have my biology elective.
-Dialogue: 69,0:51:31.38,0:51:33.49,Default,,0,0,0,,Zhang Ruozhi has great fundamentals and her defence is solid,
+Dialogue: 69,0:51:31.38,0:51:33.49,Default,,0,0,0,,Zhang Ruozhi has great fundamentals and her defence is solid,{torn fix}
 Dialogue: 69,0:51:34.32,0:51:37.04,Default,,0,0,0,,but she doesn't really go on the offensive.
 Dialogue: 69,0:51:37.04,0:51:38.89,Default,,0,0,0,,Almost looks like she lacks confidence.
 Dialogue: 69,0:51:39.68,0:51:42.86,Default,,0,0,0,,She's quite preoccupied with being compared to her sister.
@@ -718,7 +718,7 @@ Dialogue: 69,0:52:55.74,0:52:57.68,Default,,0,0,0,,Can always count on Li Xinton
 Dialogue: 69,0:52:57.68,0:52:59.95,Default,,0,0,0,,Don't try to change the topic.
 Dialogue: 69,0:53:01.92,0:53:04.50,Default,,0,0,0,,We've got plenty of great players too.
 Dialogue: 69,0:53:09.07,0:53:13.38,Default,,0,0,0,,But yeah, we still have plenty of gaps to fill as a team.
-Dialogue: 69,0:53:13.70,0:53:17.03,Default,,0,0,0,,Would be great if 10 or so landed in my lap right about now.
+Dialogue: 69,0:53:13.70,0:53:17.03,Default,,0,0,0,,Would be great if 10 strong players fell into my lap right about now.
 Dialogue: 69,0:53:18.01,0:53:20.08,Default,,0,0,0,,Like that would happen.
 Dialogue: 69,0:53:20.08,0:53:22.39,Default,,0,0,0,,Even just one more...
 Dialogue: 69,0:53:27.73,0:53:31.53,Default,,0,0,0,,Coach, don't you think everyone might get a bit disheartened
@@ -741,7 +741,7 @@ Dialogue: 69,0:54:12.46,0:54:14.36,Default,,0,0,0,,She's serious?
 Dialogue: 69,0:54:14.36,0:54:17.08,Default,,0,0,0,,The prize money... is pretty trivial.
 Dialogue: 69,0:54:17.76,0:54:21.71,Default,,0,0,0,,Maybe enough for all of us to get BBQ about 10 times.
 Dialogue: 69,0:54:21.71,0:54:22.97,Default,,0,0,0,,Without using any coupons.
-Dialogue: 69,0:54:22.97,0:54:26.02,Default,,0,0,0,,Hell yea! We're winning this!
+Dialogue: 69,0:54:22.97,0:54:26.02,Default,,0,0,0,,Hell yeah! We're winning this!
 Dialogue: 69,0:54:27.47,0:54:31.61,Default,,0,0,0,,We may as well restock the tea leaves in our training room too.
 Dialogue: 69,0:54:31.61,0:54:32.86,Default,,0,0,0,,You bet.
 Dialogue: 69,0:54:33.25,0:54:36.46,Default,,0,0,0,,And we could buy the latest ping pong robot.
@@ -771,14 +771,14 @@ Dialogue: 69,0:55:34.96,0:55:36.08,Default,,0,0,0,,What's the matter?
 Dialogue: 69,0:55:36.90,0:55:39.17,Default,,0,0,0,,Oh, nothing.
 Dialogue: 69,0:55:39.17,0:55:41.00,Default,,0,0,0,,We don't have enough strong players, right?
 Dialogue: 69,0:55:41.80,0:55:43.28,Default,,0,0,0,,I was just thinking.
-Dialogue: 69,0:55:45.44,0:55:48.83,Default,,0,0,0,,You wanna invite her?
+Dialogue: 69,0:55:45.44,0:55:48.83,Default,,0,0,0,,You want to invite her?
 Dialogue: 69,0:56:06.76,0:56:08.70,Default,,0,0,0,,That's all for the trial lesson.
 Dialogue: 69,0:56:09.30,0:56:12.56,Default,,0,0,0,,You have a few quirks, but you're quite strong.
 Dialogue: 69,0:56:13.08,0:56:16.08,Default,,0,0,0,,Do you want to continue your lessons and work on improving?
 Dialogue: 69,0:56:16.08,0:56:19.40,Default,,0,0,0,,Having some results under your belt will help when applying for university.
 Dialogue: 69,0:56:21.49,0:56:25.15,Default,,0,0,0,,Thanks, but I'm pretty good at school.
 Dialogue: 69,0:56:26.95,0:56:28.40,Default,,0,0,0,,Oh, you are?
-Dialogue: 69,0:56:28.40,0:56:31.58,Default,,0,0,0,,Well you don't need to take it seriously, it's a great hobby too.
+Dialogue: 69,0:56:28.40,0:56:31.58,Default,,0,0,0,,Well you don't need to take it seriously. Ping pong's a great hobby too.
 Dialogue: 69,0:56:31.86,0:56:33.67,Default,,0,0,0,,Anyway, I'll leave you to it.
 Dialogue: 69,0:56:41.01,0:56:42.51,Default,,0,0,0,,Hobby...
 Dialogue: 69,0:56:49.94,0:56:52.47,Default,,0,0,0,,You're the culprit!
@@ -810,7 +810,7 @@ Dialogue: 69,1:00:06.08,1:00:08.30,Default,,0,0,0,,I got on me bike just to see 
 Dialogue: 69,1:00:08.30,1:00:10.67,Default,,0,0,0,,Struth ya can't've forgotten me!
 Dialogue: 69,1:00:11.03,1:00:13.34,Default,,0,0,0,,Let me go! Who the hell are you?
 Dialogue: 69,1:00:13.34,1:00:15.36,Default,,0,0,0,,I'm ya best mate, Long Shao!
-Dialogue: 69,1:00:15.36,1:00:19.73,Default,,0,0,0,,Was our friendship from kindy worth two-fifths of fuck all?
+Dialogue: 69,1:00:15.36,1:00:19.73,Default,,0,0,0,,Was our friendship from kindy worth two-fifths of fuck-all?
 Dialogue: 69,1:00:19.73,1:00:23.18,Default,,0,0,0,,I'll crack the shits!
 Dialogue: 69,1:00:23.18,1:00:25.01,Default,,0,0,0,,Shut the fuck up!
 Dialogue: 69,1:00:28.74,1:00:30.49,Default,,0,0,0,,Let's go somewhere else.
@@ -826,7 +826,7 @@ Dialogue: 69,1:01:14.16,1:01:16.24,Default,,0,0,0,,Isn't that Wang Lu?
 Dialogue: 69,1:01:20.26,1:01:23.49,Default,,0,0,0,,{\i1}Smells like something fun is about to happen.
 Dialogue: 69,1:01:26.54,1:01:30.33,Default,,0,0,0,,I think that girl is from Lin Tech's table tennis team.
 Dialogue: 69,1:01:30.33,1:01:32.96,Default,,0,0,0,,Wow, surprised you know that.
-Dialogue: 69,1:01:32.96,1:01:37.05,Default,,0,0,0,,Li Xintong told me, she took notes for our match.
+Dialogue: 69,1:01:32.96,1:01:37.05,Default,,0,0,0,,Li Xintong told me. She took notes for our match.
 Dialogue: 69,1:01:37.42,1:01:39.93,Default,,0,0,0,,What are they doing with Wang Lu?
 Dialogue: 69,1:01:45.05,1:01:47.18,Default,,0,0,0,,Here she is, Nazza!
 Dialogue: 69,1:01:47.67,1:01:48.48,Default,,0,0,0,,Thanks.
@@ -943,18 +943,18 @@ Dialogue: 69,1:09:49.08,1:09:50.75,Default,,0,0,0,,Finally some sauce on this sn
 Dialogue: 69,1:09:51.94,1:09:53.38,Default,,0,0,0,,Need a timeout?
 Dialogue: 69,1:09:53.74,1:09:56.46,Default,,0,0,0,,We're good. It's just a practice match.
 Dialogue: 69,1:10:09.02,1:10:11.51,Default,,0,0,0,,This is the first time they've paired up, isn't it?
-Dialogue: 69,1:10:11.51,1:10:14.57,Default,,0,0,0,,They're both good players, they'll be fine... I think.
+Dialogue: 69,1:10:11.51,1:10:14.57,Default,,0,0,0,,They're both good players. They'll be right... I think.
 Dialogue: 69,1:10:24.78,1:10:25.54,Default,,0,0,0,,Nice!
 Dialogue: 69,1:10:25.54,1:10:26.45,Default,,0,0,0,,Hey, not bad.
 Dialogue: 69,1:10:27.46,1:10:29.96,Default,,0,0,0,,They got the first point, this looks promising!
-Dialogue: 69,1:10:43.15,1:10:44.86,Default,,0,0,0,,Hell yea!
+Dialogue: 69,1:10:43.15,1:10:44.86,Default,,0,0,0,,Hell yeah!
 Dialogue: 69,1:10:44.86,1:10:45.76,Default,,0,0,0,,Keep it up!
 Dialogue: 69,1:10:45.76,1:10:46.85,Default,,0,0,0,,They might win this!
 Dialogue: 69,1:10:47.27,1:10:50.29,Default,,0,0,0,,Wow, you guys are just like Lu's three stooges.
 Dialogue: 69,1:10:50.29,1:10:50.93,Default,,0,0,0,,Huh?
 Dialogue: 69,1:10:51.21,1:10:54.31,Default,,0,0,0,,They've probably finished warming up by now.
 Dialogue: 69,1:10:56.00,1:10:56.82,Default,,0,0,0,,Long Shao.
-Dialogue: 69,1:10:57.12,1:11:00.57,Default,,0,0,0,,Yessireee, time to pull out the big guns.
+Dialogue: 69,1:10:57.12,1:11:00.57,Default,,0,0,0,,Yessiree, time to pull out the big guns.
 Dialogue: 69,1:11:05.57,1:11:07.08,Default,,0,0,0,,Keep an eye on headband.
 Dialogue: 69,1:11:17.43,1:11:20.05,Default,,0,0,0,,She's a fast attacker, and has great placement.
 Dialogue: 69,1:11:22.63,1:11:23.47,Default,,0,0,0,,Watch out!
@@ -974,7 +974,7 @@ Dialogue: 69,1:12:32.58,1:12:33.86,Default,,0,0,0,,This looks bad.
 Dialogue: 69,1:12:57.90,1:13:00.21,Default,,0,0,0,,They're completely on the back foot.
 Dialogue: 69,1:13:00.21,1:13:03.57,Default,,0,0,0,,That tall girl isn't even playing seriously.
 Dialogue: 69,1:13:04.00,1:13:07.15,Default,,0,0,0,,You haven't improved one bit, Luzza.
-Dialogue: 69,1:13:07.58,1:13:11.06,Default,,0,0,0,,I told you there's no point in flashy performances. \NYou should've just practiced.
+Dialogue: 69,1:13:07.58,1:13:11.06,Default,,0,0,0,,I told you there's no point in flashy performances. \NYou should've just practised.
 Dialogue: 69,1:13:11.06,1:13:11.91,Default,,0,0,0,,You're such an attention whore.
 Dialogue: 69,1:13:13.00,1:13:14.87,Default,,0,0,0,,Who're you calling an attention whore?
 Dialogue: 69,1:13:14.87,1:13:18.14,Default,,0,0,0,,Whoa, don't get mad just cause I hit the bullseye.
@@ -1012,7 +1012,7 @@ Dialogue: 69,1:15:45.10,1:15:48.61,Default,,0,0,0,,They can definitely win this!
 Dialogue: 69,1:15:48.61,1:15:52.07,Default,,0,0,0,,Wang Lu, Zhang Ruozhi! Go get 'em!
 Dialogue: 69,1:15:49.76,1:15:51.05,Default,,0,0,0,,Good luck!
 Dialogue: 69,1:15:52.07,1:15:53.86,Default,,0,0,0,,Smash 'em to bits!
-Dialogue: 69,1:16:08.57,1:16:11.13,Default,,0,0,0,,Yea!{x4}
+Dialogue: 69,1:16:08.57,1:16:11.13,Default,,0,0,0,,Yeah!{x4}
 Dialogue: 69,1:16:11.13,1:16:13.13,Default,,0,0,0,,Don't let up!
 Dialogue: 69,1:16:13.13,1:16:16.13,Default,,0,0,0,,Go Qiming!
 Dialogue: 69,1:16:13.53,1:16:16.13,Default,,0,0,0,,You got this, Ruozhi! Wang Lu!
@@ -1043,7 +1043,7 @@ Dialogue: 69,1:19:03.20,1:19:05.71,Default,,0,0,0,,I'm not done sooking!
 Dialogue: 69,1:19:06.19,1:19:07.09,Default,,0,0,0,,Hey—
 Dialogue: 69,1:19:07.09,1:19:09.80,Default,,0,0,0,,That comeback was amazing!
 Dialogue: 69,1:19:09.80,1:19:12.48,Default,,0,0,0,,That was a great last shot, Wang Lu.
-Dialogue: 69,1:19:12.48,1:19:14.23,Default,,0,0,0,,I'm looking forward to practicing together.
+Dialogue: 69,1:19:12.48,1:19:14.23,Default,,0,0,0,,I'm looking forward to practising together.
 Dialogue: 69,1:19:14.54,1:19:17.11,Default,,0,0,0,,Practice? What do you mean?
 Dialogue: 69,1:19:17.54,1:19:20.51,Default,,0,0,0,,I'll win at the interleague!
 Dialogue: 69,1:19:20.51,1:19:23.54,Default,,0,0,0,,I'm going to take that as a club application.
@@ -1068,7 +1068,7 @@ Dialogue: 69,1:20:31.00,1:20:33.89,Default,,0,0,0,,I can't believe Wang Lu went 
 Dialogue: 69,1:20:34.51,1:20:37.62,Default,,0,0,0,,I just wanted to help out my buddy's club.
 Dialogue: 69,1:20:37.62,1:20:40.04,Default,,0,0,0,,No way! You were testing Wang Lu?
 Dialogue: 69,1:20:40.04,1:20:41.98,Default,,0,0,0,,Of course not!
-Dialogue: 69,1:20:43.34,1:20:48.27,Default,,0,0,0,,But I knew if she really liked table tennis, then she'd join us eventually.
+Dialogue: 69,1:20:43.34,1:20:48.27,Default,,0,0,0,,But I knew if she really liked ping pong, then she'd join us eventually.
 Dialogue: 69,1:20:50.43,1:20:54.25,Default,,0,0,0,,Leave the PR to us.
 Dialogue: 69,1:20:55.21,1:20:57.36,Default,,0,0,0,,We'll get a gorillion followers!
 Dialogue: 69,1:20:57.36,1:20:58.33,Default,,0,0,0,,Trending on the front page!
@@ -1093,7 +1093,7 @@ Dialogue: 69,1:21:50.65,1:21:51.62,Default,,0,0,0,,Hi Ruozhi!
 Dialogue: 69,1:21:52.05,1:21:54.52,Default,,0,0,0,,These are your teammates right? I'll treat you all to dinner.
 Dialogue: 69,1:21:54.52,1:21:56.22,Default,,0,0,0,,Authentic Dongbei cuisine!
 Dialogue: 69,1:21:57.65,1:21:59.10,Default,,0,0,0,,Uncle, wait!
-Dialogue: 69,1:21:59.10,1:22:01.40,Default,,0,0,0,,Heck yea! Free food!
+Dialogue: 69,1:21:59.10,1:22:01.40,Default,,0,0,0,,Heck yeah! Free food!
 Dialogue: 69,1:22:02.60,1:22:04.77,Default,,0,0,0,,This is my first time going to a friend's house!
 Dialogue: 69,1:22:04.77,1:22:06.03,Default,,0,0,0,,I'll bring some snacks!
 Dialogue: 69,1:22:07.27,1:22:08.99,Default,,0,0,0,,Thanks, I'll take you up on that.
@@ -1105,7 +1105,7 @@ Dialogue: 69,1:22:37.92,1:22:39.97,Default,,0,0,0,,Come on, let me finish taking
 Dialogue: 69,1:22:39.97,1:22:41.78,Default,,0,0,0,,Would you like to try some?
 Dialogue: 69,1:22:41.78,1:22:42.10,Default,,0,0,0,,Yay!
 Dialogue: 69,1:22:42.10,1:22:43.31,Default,,0,0,0,,Thanks.
-Dialogue: 69,1:22:51.25,1:22:52.61,Default,,0,0,0,,{\i1}I joined the table tennis club.
+Dialogue: 69,1:22:51.25,1:22:52.61,Default,,0,0,0,,{\i1}I joined the ping pong club.
 Dialogue: 69,1:22:52.86,1:22:55.01,Default,,0,0,0,,{\an8}Rest of this is mine!
 Dialogue: 69,1:22:53.54,1:22:56.24,Default,,0,0,0,,{\i1}We're having dinner together at my place right now.
 Dialogue: 69,1:22:57.30,1:22:59.66,Default,,0,0,0,,{\i1}I'll do my best at the interleague.
